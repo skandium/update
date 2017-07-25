@@ -1,2 +1,1 @@
-"","timestamp","sys_time","name","wmocode","phenomenon","visibility","precipitations","airpressure","relativehumidity","airtemperature","winddirection","windspeed","windspeedmax"
-"5148","1501008479","2017-07-25 21:48:53","Tallinn-Harku","26038","Clear","20.0","0","1008.8","76","16.4","32","2.7","5.4"
+``` {"timestamp":"1501008479","sys_time":"2017-07-25 21:48:53","name":"Tallinn-Harku","wmocode":"26038","phenomenon":"Clear","visibility":"20.0","precipitations":"0","airpressure":"1008.8","relativehumidity":"76","airtemperature":"16.4","winddirection":"32","windspeed":"2.7","windspeedmax":"5.4"} ```
