@@ -1,2 +1,2 @@
 ## Current conditions: 
- ``` {"timestamp":"1501220853","sys_time":"2017-07-28 08:47:45","name":"Tallinn-Harku","wmocode":"26038","lon":"24.602891666624284","lat":"59.398122222355134","phenomenon":"Overcast","visibility":"20.0","precipitations":"0","airpressure":"1003.3","relativehumidity":"88","airtemperature":"20.5","winddirection":"149","windspeed":"3.7","windspeedmax":"6.3","NA":"","NA":""} ```
+ ``` {"timestamp":"1501221102","sys_time":"2017-07-28 08:51:48","name":"Tallinn-Harku","wmocode":"26038","lon":"24.602891666624284","lat":"59.398122222355134","phenomenon":"Overcast","visibility":"20.0","precipitations":"0","airpressure":"1003.3","relativehumidity":"88","airtemperature":"20.5","winddirection":"149","windspeed":"3.7","windspeedmax":"6.3","NA":"","NA":""} ```
