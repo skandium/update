@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-30 23:40:43 ``` 
+Timestamp: ``` 2017-07-30 23:44:50 ``` 
 
 Condition: ``` Few clouds ``` 
 
@@ -20,9 +20,9 @@ Humidity: ``` 97 ```
 
 Temperature: ``` 14.1 ``` 
 
-Wind speed: ``` 1 ``` 
+Wind speed: ``` 0.9 ``` 
 
-Wind direction: ``` 204 ``` 
+Wind direction: ``` 208 ``` 
 
 Max wind speed: ``` 1.4 ``` 
 
