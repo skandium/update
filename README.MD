@@ -1,5 +1,5 @@
 ## Current conditions: 
- ``` {"timestamp":"1501376832","sys_time":"2017-07-30 04:08:16","name":"Tallinn-Harku","wmocode":"26038","lon":"24.602891666624284","lat":"59.398122222355134","phenomenon":"Clear","visibility":"16.0","precipitations":"0","airpressure":"1009.7","relativehumidity":"99","airtemperature":"12.4","winddirection":"211","windspeed":"1.4","windspeedmax":"2.3","NA":"","NA":""} ```
+ ``` {"timestamp":"1501377200","sys_time":"2017-07-30 04:14:23","name":"Tallinn-Harku","wmocode":"26038","lon":"24.602891666624284","lat":"59.398122222355134","phenomenon":"Clear","visibility":"17.0","precipitations":"0","airpressure":"1009.7","relativehumidity":"99","airtemperature":"12.2","winddirection":"206","windspeed":"1.1","windspeedmax":"1.7","NA":"","NA":""} ```
 
  The forecast for tomorrow at Harku is: 
 
