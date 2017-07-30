@@ -1,11 +1,11 @@
 # Weather in Tallinn 
 
-![Alt text](images/cloud.png)
+<img src= 'images/cloud.png' width= '50' />
 ## Current conditions: 
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-30 20:00:08 ``` 
+Timestamp: ``` 2017-07-30 20:02:09 ``` 
 
 Condition: ``` Variable clouds ``` 
 
