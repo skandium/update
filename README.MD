@@ -1,8 +1,11 @@
+# Weather in Tallinn 
+
+![Alt text](images/cloud.jpg)
 ## Current conditions: 
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-30 19:47:57 ``` 
+Timestamp: ``` 2017-07-30 19:54:02 ``` 
 
 Condition: ``` Variable clouds ``` 
 
@@ -14,13 +17,13 @@ Pressure: ``` 1010.3 ```
 
 Humidity: ``` 72 ``` 
 
-Temperature: ``` 19.3 ``` 
+Temperature: ``` 19.4 ``` 
 
-Wind speed: ``` 2.1 ``` 
+Wind speed: ``` 2 ``` 
 
-Wind direction: ``` 267 ``` 
+Wind direction: ``` 287 ``` 
 
-Max wind speed: ``` 3.6 ``` 
+Max wind speed: ``` 3.7 ``` 
 
 
  Today's forecast from Yr.no is: 
