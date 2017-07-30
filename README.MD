@@ -2,6 +2,8 @@
 
 ### Harku: 
 
+### Timestamp: ``` 2017-07-30 18:52:03 ``` 
+
 Condition: ``` Variable clouds ``` 
 
 Visibility: ``` 20.0 ``` 
