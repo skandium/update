@@ -2,7 +2,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-30 19:39:50 ``` 
+Timestamp: ``` 2017-07-30 19:41:52 ``` 
 
 Condition: ``` Variable clouds ``` 
 
@@ -21,6 +21,9 @@ Wind speed: ``` 2.5 ```
 Wind direction: ``` 277 ``` 
 
 Max wind speed: ``` 4.1 ``` 
+
+
+ Today's forecast from Yr.no is: 
 
 |forecast_time       |time                | temp| wind| wind_dir| pressure|
 |:-------------------|:-------------------|----:|----:|--------:|--------:|
