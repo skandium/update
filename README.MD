@@ -12,13 +12,13 @@ Pressure: ``` 1010.4 ```
 
 Humidity: ``` 70 ``` 
 
-Temperature: ``` 20.7 ``` 
+Temperature: ``` 20.8 ``` 
 
-Wind speed: ``` 2.8 ``` 
+Wind speed: ``` 2.7 ``` 
 
-Wind direction: ``` 306 ``` 
+Wind direction: ``` 280 ``` 
 
-Max wind speed: ``` 5.6 ``` 
+Max wind speed: ``` 4.8 ``` 
 
 
  The forecast for tomorrow at Harku is: 
