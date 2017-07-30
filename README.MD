@@ -1,6 +1,6 @@
 # Weather in Tallinn 
 
-<img src= 'images/cloud.png' />
+![Alt text](images/cloud.png)
 ## Current conditions: 
 
 ### Harku: 
