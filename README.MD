@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-31 22:04:59 ``` 
+Timestamp: ``` 2017-07-31 22:11:03 ``` 
 
 Condition: ``` Cloudy with clear spells ``` 
 
@@ -16,7 +16,7 @@ Precipitation: ``` 0 ```
 
 Pressure: ``` 1012 ``` 
 
-Humidity: ``` 85 ``` 
+Humidity: ``` 88 ``` 
 
 Temperature: ``` 18.2 ``` 
 
