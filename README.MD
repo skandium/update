@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-07-31 22:21:05 ``` 
+Timestamp: ``` 2017-07-31 22:25:05 ``` 
 
 Condition: ``` Cloudy with clear spells ``` 
 
@@ -18,11 +18,11 @@ Pressure: ``` 1012.1 ```
 
 Humidity: ``` 88 ``` 
 
-Temperature: ``` 17.9 ``` 
+Temperature: ``` 17.6 ``` 
 
 Wind speed: ``` 3.9 ``` 
 
-Wind direction: ``` 259 ``` 
+Wind direction: ``` 254 ``` 
 
-Max wind speed: ``` 6.9 ``` 
+Max wind speed: ``` 6.5 ``` 
 
