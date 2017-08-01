@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-01 16:24:38 ``` 
+Timestamp: ``` 2017-08-01 16:28:43 ``` 
 
 Condition: ``` Cloudy with clear spells ``` 
 
