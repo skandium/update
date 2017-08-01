@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-01 09:35:29 ``` 
+Timestamp: ``` 2017-08-01 09:41:35 ``` 
 
 Condition: ``` Few clouds ``` 
 
