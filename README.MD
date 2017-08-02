@@ -6,9 +6,9 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 10:48:32 ``` 
+Timestamp: ``` 2017-08-02 10:52:35 ``` 
 
-Condition: ``` Mist ``` 
+Condition: ``` Light rain ``` 
 
 Visibility: ``` 3.0 ``` 
 
@@ -18,11 +18,11 @@ Pressure: ``` 1008.1 ```
 
 Humidity: ``` 96 ``` 
 
-Temperature: ``` 16.1 ``` 
+Temperature: ``` 16.3 ``` 
 
-Wind speed: ``` 2.1 ``` 
+Wind speed: ``` 2 ``` 
 
-Wind direction: ``` 214 ``` 
+Wind direction: ``` 213 ``` 
 
-Max wind speed: ``` 4.4 ``` 
+Max wind speed: ``` 3.7 ``` 
 
