@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 17:42:53 ``` 
+Timestamp: ``` 2017-08-02 17:46:54 ``` 
 
 Condition: ``` Cloudy with clear spells ``` 
 
@@ -14,17 +14,17 @@ Visibility: ``` 20.0 ```
 
 Precipitation: ``` 0 ``` 
 
-Pressure: ``` 1009.4 ``` 
+Pressure: ``` 1009.2 ``` 
 
 Humidity: ``` 72 ``` 
 
 Temperature: ``` 20.9 ``` 
 
-Wind speed: ``` 4.9 ``` 
+Wind speed: ``` 4.3 ``` 
 
-Wind direction: ``` 265 ``` 
+Wind direction: ``` 262 ``` 
 
-Max wind speed: ``` 8.1 ``` 
+Max wind speed: ``` 7.2 ``` 
 
 
  Today's forecast from Yr.no is: 
