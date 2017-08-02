@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 18:12:58 ``` 
+Timestamp: ``` 2017-08-02 18:16:59 ``` 
 
 Condition: ``` Clear ``` 
 
