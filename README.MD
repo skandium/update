@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 13:22:37 ``` 
+Timestamp: ``` 2017-08-02 13:27:38 ``` 
 
 Condition: ``` Overcast ``` 
 
