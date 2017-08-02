@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 10:33:30 ``` 
+Timestamp: ``` 2017-08-02 10:38:31 ``` 
 
 Condition: ``` Mist ``` 
 
