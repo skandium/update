@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 11:03:37 ``` 
+Timestamp: ``` 2017-08-02 11:08:37 ``` 
 
 Condition: ``` Light shower ``` 
 
