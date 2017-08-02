@@ -6,11 +6,11 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 11:24:17 ``` 
+Timestamp: ``` 2017-08-02 11:30:20 ``` 
 
 Condition: ``` Overcast ``` 
 
-Visibility: ``` 10.0 ``` 
+Visibility: ``` 13.0 ``` 
 
 Precipitation: ``` 0 ``` 
 
