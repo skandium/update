@@ -6,7 +6,7 @@
 
 ### Harku: 
 
-Timestamp: ``` 2017-08-02 12:06:27 ``` 
+Timestamp: ``` 2017-08-02 12:11:10 ``` 
 
 Condition: ``` Moderate rain ``` 
 
